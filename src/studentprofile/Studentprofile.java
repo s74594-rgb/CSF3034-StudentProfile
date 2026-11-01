@@ -17,6 +17,9 @@ public class Studentprofile {
        System.out.println("Name: Asyraaf Nabil");
         System.out.println("Student ID: S74594");
         System.out.println("Programme: Bachelor of Computer Science");
+        System.out.println("Semester: Semester 5");
+System.out.println("Favourite Language: Java");
+    
     }
     
 }
